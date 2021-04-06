@@ -15,8 +15,11 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //TODO code application logic here
         //Todo o código da aplicação aqui em colocaboração com a Ana Mendes
+        //Todo o código Ana
+        //O desenvolvimento do jogo será nesta class
+        
     }
     
 }
